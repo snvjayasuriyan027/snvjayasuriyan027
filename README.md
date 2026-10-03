@@ -19,5 +19,5 @@ I'm a CSE student passionate about programming, technology, and software develop
 To continuously improve my programming skills, build useful projects, and grow as a software developer.
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile here
-- GitHub: You're already here! 😄
+- LinkedIn: Jaya Suriyan S N V 
+- GitHub: snvjayasuriyan027
